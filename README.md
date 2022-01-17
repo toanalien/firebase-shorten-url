@@ -25,8 +25,8 @@ Live: https://s.duyet.net
 
 2. Setup packages
     ```
-    cd functions/ && yarn
-    cd hosting/ && yarn
+    cd functions && yarn; cd -
+    cd hosting && yarn; cd -
     ```
 
 3. Go to https://console.firebase.google.com and create new project.
