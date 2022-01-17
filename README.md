@@ -17,7 +17,7 @@ Live: https://s.duyet.net
 
 1. Set up Node.js and the Firebase CLI
     ```
-    yarn global addfirebase-tools
+    yarn global add firebase-tools
     ```
 
     To initialize project: Run `firebase login` to log in via the browser and authenticate the firebase tool.
